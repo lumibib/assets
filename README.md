@@ -4,7 +4,7 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/lumibib/assets/total)
 [![](https://data.jsdelivr.com/v1/package/gh/lumibib/assets/badge)](https://www.jsdelivr.com/package/gh/lumibib/assets)
 
-<h1 align="center">Assets</h1> <br>
+
 <p align="center">
     <img alt="at-article logo" title="at-article logo" src="https://img.icons8.com/color/344/branding-iron.png" width="200">
 </p>
@@ -12,7 +12,7 @@
   <strong>Assets and branding for Lumibib</strong>
 </div>
 <div align="center">
-  This repository contains our static assets and serves them to our [endpoints](#endpoints).
+  This repository contains our static assets and serves them to our <a href="#endpoints">Endpoints</a>.
 </div>
 
 <div align="center">
@@ -35,6 +35,7 @@
   </a>
   </sub>
 </div>
+
 
 ## Table of Contents
 
