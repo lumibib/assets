@@ -33,6 +33,7 @@
   <a href="https://github.com/lumibib/assets/contributors">
     contributors
   </a>
+  </sub>
 </div>
 
 ## Table of Contents
