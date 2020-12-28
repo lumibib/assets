@@ -39,12 +39,17 @@
 
 ## Table of Contents
 
-- [Endpoints](#endpoints)
-- [Usage](#usage)
+- [Assets](#assets)
+  - [Endpoints](#endpoints)
+  - [Usage](#usage)
+  - [Logo](#logo)
+- [Colors](#colors)
+- [Avatar](#avatar)
 - [Contributing](#contributing)
 - [License](#license)
 
-## Endpoints
+## Assets
+### Endpoints
 
 We store our static assets in this repository, GitHub Pages publishes it and jsDelivr CDN fetch it.
 
@@ -54,7 +59,7 @@ We store our static assets in this repository, GitHub Pages publishes it and jsD
 * **jsDelivr package**: https://www.jsdelivr.com/package/gh/lumibib/assets
 * **Statically CDN**: https://cdn.statically.io/gh/lumibib/assets/master/logo/logo-lumibib-color.svg
 
-## Usage
+### Usage
 
 For example, our logo is available at :
 
@@ -74,55 +79,79 @@ With Statically CDN, you can choose a specific branch, tag or git commit hash:
 
 <table>
   <tr>
-    <td style="text-align: center">
-      <a href="https://cdn.lumibib.ch/logo/logo-lumibib-color.svg">
-        <img alt="" src="./logo/logo-lumibib-color.svg" height="100">
+    <td style="text-align: center;">
+      <a href="https://cdn.jsdelivr.net/gh/lumibib/assets@latest/logo/logo-lumibib-color.svg">
+        <img alt="color logo" src="./logo/logo-lumibib-color.svg" height="100">
       </a>
       <div>SVG logo</div>
     </td>
-    <td style="text-align: center">
-      <a href="https://cdn.lumibib.ch/logo/logo-lumibib-square.svg">
-        <img alt="" src="./logo/logo-lumibib-square.svg" height="100">
+    <td style="text-align: center;">
+      <a href="https://cdn.jsdelivr.net/gh/lumibib/assets@latest/logo/logo-lumibib-square.svg">
+        <img alt="square logo" src="./logo/logo-lumibib-square.svg" height="100">
       </a>
       <div>SVG logo square</div>
-  </td>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://cdn.jsdelivr.net/gh/lumibib/assets@latest/logo/logo-lumibib-white.svg">
+        <img alt="white logo" src="./logo/logo-lumibib-white.svg" height="100" style="background:#0d1821;">
+      </a>
+      <div>SVG logo white</div>
+    </td>
   </tr>
 </table>
 
-### Colors
+### Favicon
+
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <a href="https://cdn.jsdelivr.net/gh/lumibib/assets@latest/favicon/favicon.ico">
+        <img alt="color logo" src="./favicon/favicon.ico" height="32">
+      </a>
+      <div>Favicon logo</div>
+    </td>
+  </tr>
+</table>
+
+## Colors
 
 <table>
   <tr>
     <td style="text-align: center">
-      <img alt="" height="50" width="50" src="https://via.placeholder.com/50/ebebeb?text=%20">
+      <img alt="" height="50" width="50" src="https://dummyimage.com/50x50/ebebeb/ffffff.png&text=+">
       <div><code>#ebebeb</code></div>
     </td>
     <td style="text-align: center">
-      <img alt="" height="50" width="50" src="https://via.placeholder.com/50/ff4f73?text=%20">
+      <img alt="" height="50" width="50" src="https://dummyimage.com/50x50/ff4f73/ffffff.png&text=+">
       <div><code>#ff4f73</code></div>
     </td>
     <td style="text-align: center">
-      <img alt="" height="50" width="50" src="https://via.placeholder.com/50/ffd009?text=%20">
+      <img alt="" height="50" width="50" src="https://dummyimage.com/50x50/ffd009/ffffff.png&text=+">
       <div><code>#ffd009</code></div>
     </td>
     <td style="text-align: center">
-      <img alt="" height="50" width="50" src="https://via.placeholder.com/50/1274ed?text=%20">
+      <img alt="" height="50" width="50" src="https://dummyimage.com/50x50/1274ed/ffffff.png&text=+">
       <div><code>#1274ed</code></div>
   </td>
     <td style="text-align: center">
-      <img alt="" height="50" width="50" src="https://via.placeholder.com/50/002c73?text=%20">
+      <img alt="" height="50" width="50" src="https://dummyimage.com/50x50/002c73/ffffff.png&text=+">
       <div><code>#002c73</code></div>
   </td>
     <td style="text-align: center">
-      <img alt="" height="50" width="50" src="https://via.placeholder.com/50/0d1821?text=%20">
+      <img alt="" height="50" width="50" src="https://dummyimage.com/50x50/0d1821/ffffff.png&text=+">
       <div><code>#0d1821</code></div>
   </td>
   </tr>
 </table>
 
-### Assets
+Thanks to [dummyimmage](https://github.com/kingkool68/dummyimage) for the square generation.
 
-…
+### Avatar
+
+We use two solutions to generate avatar or profile images. Gravatar uses an md5 hash of an email address or a username. ui-avatars requires a full name.
+
+* **Gravatar**: https://www.gravatar.com/avatar/14c4b06b824ec593239362517f538b29?d=identicon&s=200
+* **ui-avatars**: https://eu.ui-avatars.com/api/?name=John%20Doe
 
 ## Contributing
 
