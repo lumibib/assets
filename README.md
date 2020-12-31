@@ -165,4 +165,4 @@ We’re really happy to accept contributions from the community, that’s the ma
 
 ## License
 
-Our logo and other static assets are available under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Our logo is based on [Owl](https://thenounproject.com/term/owl/1498942/) by [ester barbato](https://thenounproject.com/barbato.ester/) from [The Noun Project](https://thenounproject.com), licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+The trademarks, logos and other static assets ("Marks") displayed on this repository are the property of Lumibib. You are not permitted to use these Marks without the prior written consent of Lumibib. Our logo is based on [Owl](https://thenounproject.com/term/owl/1498942/) by [ester barbato](https://thenounproject.com/barbato.ester/) from [The Noun Project](https://thenounproject.com), licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
