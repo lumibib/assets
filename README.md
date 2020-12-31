@@ -146,7 +146,7 @@ With Statically CDN, you can choose a specific branch, tag or git commit hash:
 
 Thanks to [dummyimmage](https://github.com/kingkool68/dummyimage) for the square generation.
 
-### Avatar
+## Avatar
 
 We use two solutions to generate avatar or profile images. Gravatar uses an md5 hash of an email address or a username. ui-avatars requires a full name.
 
