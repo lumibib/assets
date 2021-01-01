@@ -83,19 +83,47 @@ With Statically CDN, you can choose a specific branch, tag or git commit hash:
       <a href="https://cdn.jsdelivr.net/gh/lumibib/assets@latest/logo/logo-lumibib-color.svg">
         <img alt="color logo" src="./logo/logo-lumibib-color.svg" height="100">
       </a>
-      <div>SVG logo</div>
-    </td>
-    <td style="text-align: center;">
-      <a href="https://cdn.jsdelivr.net/gh/lumibib/assets@latest/logo/logo-lumibib-square.svg">
-        <img alt="square logo" src="./logo/logo-lumibib-square.svg" height="100">
-      </a>
-      <div>SVG logo square</div>
+      <div>Color</div>
     </td>
     <td style="text-align: center;">
       <a href="https://cdn.jsdelivr.net/gh/lumibib/assets@latest/logo/logo-lumibib-white.svg">
         <img alt="white logo" src="./logo/logo-lumibib-white.svg" height="100" style="background:#0d1821;">
       </a>
-      <div>SVG logo white</div>
+      <div>White</div>
+    </td>
+  </tr>
+  </table>
+  <table>
+  <tr>
+    <td style="text-align: center;">
+      <a href="https://cdn.jsdelivr.net/gh/lumibib/assets@latest/logo/logo-lumibib-square.svg">
+        <img alt="square logo" src="./logo/logo-lumibib-square.svg" height="100">
+      </a>
+      <div>Square</div>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://cdn.jsdelivr.net/gh/lumibib/assets@latest/logo/logo-lumibib-square-grey.svg">
+        <img alt="square logo" src="./logo/logo-lumibib-square-grey.svg" height="100">
+      </a>
+      <div>Square grey</div>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://cdn.jsdelivr.net/gh/lumibib/assets@latest/logo/logo-lumibib-square-blue.svg">
+        <img alt="square blue logo" src="./logo/logo-lumibib-square-blue.svg" height="100">
+      </a>
+      <div>Square blue</div>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://cdn.jsdelivr.net/gh/lumibib/assets@latest/logo/logo-lumibib-square-yellow.svg">
+        <img alt="square yellowlogo" src="./logo/logo-lumibib-square-yellow.svg" height="100">
+      </a>
+      <div>Square yellow</div>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://cdn.jsdelivr.net/gh/lumibib/assets@latest/logo/logo-lumibib-square-red.svg">
+        <img alt="square red logo" src="./logo/logo-lumibib-square-red.svg" height="100">
+      </a>
+      <div>Square red</div>
     </td>
   </tr>
 </table>
