@@ -75,6 +75,29 @@ With jsDelivr CDN, you can choose a specific release or a specific git commit ha
 With Statically CDN, you can choose a specific branch, tag or git commit hash:
 * https://cdn.statically.io/gh/lumibib/assets/master/logo/logo-lumibib-color.svg
 
+```` html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Lumibib</title>
+    <link rel="shortcut icon" href="https://cdn.jsdelivr.net/gh/lumibib/assets@latest/favicon/favicon.ico" type="image/x-icon">
+
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&family=Montserrat:wght@500;700&display=swap" rel="stylesheet" >
+    <link href="https://cdn.jsdelivr.net/gh/lumibib/assets@latest/css/theme.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/gh/lumibib/assets@latest/css/vendor.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.1/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+  <!-- Content -->
+  <script src="https://cdn.jsdelivr.net/gh/lumibib/assets@latest/js/vendor.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/lumibib/assets@latest/js/theme.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/lumibib/assets@latest/js/theme-initialization.min.js"></script>
+</body>
+````
+
 ### Logo
 
 <table>
