@@ -54,7 +54,6 @@
 We store our static assets in this repository, GitHub Pages publishes it and jsDelivr CDN fetch it.
 
 * **Github Pages**: https://lumibib.github.io/assets
-* **Lumibib CDN**: https://assets.lumibib.ch
 * **jsDelivr CDN**: https://cdn.jsdelivr.net/gh/lumibib/assets/
 * **jsDelivr package**: https://www.jsdelivr.com/package/gh/lumibib/assets
 * **Statically CDN**: https://cdn.statically.io/gh/lumibib/assets/master/logo/logo-lumibib-color.svg
@@ -64,7 +63,6 @@ We store our static assets in this repository, GitHub Pages publishes it and jsD
 For example, our logo is available at :
 
 * https://lumibib.github.io/assets/logo/logo-lumibib-color.svg
-* https://assets.lumibib.ch/logo/logo-lumibib-color.svg
 * https://cdn.jsdelivr.net/gh/lumibib/assets@latest/logo/logo-lumibib-color.svg
 
 With jsDelivr CDN, you can choose a specific release or a specific git commit hash:
@@ -203,6 +201,13 @@ We use two solutions to generate avatar or profile images. Gravatar uses an md5 
 
 * **Gravatar**: https://www.gravatar.com/avatar/14c4b06b824ec593239362517f538b29?d=identicon&s=200
 * **ui-avatars**: https://eu.ui-avatars.com/api/?name=John%20Doe
+
+## Images
+
+Optimize and resize images effortlessly with [Statically](https://statically.io/docs/using-images/).
+* **Endpoint**: `https://cdn.statically.io/img/:domain/h=:pixel,q=:percentage/:image`
+* https://cdn.statically.io/img/lumibib.ch/w=300,h=500/foo.jpg
+* https://cdn.statically.io/img/lumibib.ch/f=auto,w=600,h=400/bar.jpg
 
 ## Contributing
 
