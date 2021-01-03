@@ -43,6 +43,7 @@
   - [Endpoints](#endpoints)
   - [Usage](#usage)
   - [Logo](#logo)
+  - [Images](#images)
 - [Colors](#colors)
 - [Avatar](#avatar)
 - [Contributing](#contributing)
@@ -162,6 +163,11 @@ With Statically CDN, you can choose a specific branch, tag or git commit hash:
   </tr>
 </table>
 
+### Images
+Illustrations, graphics and icons are created from theses [providers](https://htmlstream.com/front/documentation/credits.html#free-design-sources).
+
+* **Endpoint** : https://cdn.jsdelivr.net/gh/lumibib/assets@master/images/
+
 ## Colors
 
 <table>
@@ -202,7 +208,7 @@ We use two solutions to generate avatar or profile images. Gravatar uses an md5 
 * **Gravatar**: https://www.gravatar.com/avatar/14c4b06b824ec593239362517f538b29?d=identicon&s=200
 * **ui-avatars**: https://eu.ui-avatars.com/api/?name=John%20Doe
 
-## Images
+## Images optimization
 
 Optimize and resize images effortlessly with [Statically](https://statically.io/docs/using-images/).
 * **Endpoint**: `https://cdn.statically.io/img/:domain/h=:pixel,q=:percentage/:image`
